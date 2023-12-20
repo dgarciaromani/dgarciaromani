@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Explore my latest projects here: https://www.dgarciaromani.com/#/projects
+
 <!--
 **dgarciaromani/dgarciaromani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
